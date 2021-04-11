@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguyenm2151
+- 👋 Hi, I’m Mai
 - 👀 I’m interested in data engineering, data analysis, machine learning, software engineering, etc.
 - 🌱 I’m currently learning AWS SAM templates
 - 💞️ I’m looking to collaborate on ...
